@@ -32,7 +32,6 @@ namespace sistema_de_hospedagem.Models
         public Reserva(int diasReservados)
         {
             _diasReservados = diasReservados;
-            _suite = new Suite("", 0, 0); //Suite inicial
         }
 
         //Métodos
