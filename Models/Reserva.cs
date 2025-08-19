@@ -65,6 +65,10 @@ namespace sistema_de_hospedagem.Models
 
         public decimal CalcularValorDiaria()
         {
+            if (_diasReservados >= 10)
+            {
+                return _suite.ValorDiaria * _diasReservados * 0.9M;
+            }
             return _suite.ValorDiaria * _diasReservados;
         }
     }
