@@ -21,7 +21,6 @@ namespace sistema_de_hospedagem.Models
         public Suite Suite
         {
             get { return _suite; }
-            set { _suite = value; }
         }
         public int DiasReservados
         {
@@ -30,10 +29,10 @@ namespace sistema_de_hospedagem.Models
         }
 
         //Construtor
-        public Reserva(Suite suite, int diasReservadas)
+        public Reserva(int diasReservados)
         {
-            _suite = suite;
-            _diasReservados = diasReservadas;
+            _diasReservados = diasReservados;
+            _suite = new Suite("", 0, 0); //Suite inicial
         }
 
         //Métodos

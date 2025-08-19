@@ -30,6 +30,7 @@ namespace sistema_de_hospedagem.Models
         }
 
         //Construtor
+
         public Suite(string tipoSuite, int capacidade, decimal valorDiaria)
         {
             _tipoSuite = tipoSuite;

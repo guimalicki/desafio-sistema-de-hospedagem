@@ -1,0 +1,15 @@
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\bin\Debug\net9.0\sistema_de_hospedagem.exe
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\bin\Debug\net9.0\sistema_de_hospedagem.deps.json
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\bin\Debug\net9.0\sistema_de_hospedagem.runtimeconfig.json
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\bin\Debug\net9.0\sistema_de_hospedagem.dll
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\bin\Debug\net9.0\sistema_de_hospedagem.pdb
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.AssemblyInfoInputs.cache
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.AssemblyInfo.cs
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.sourcelink.json
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.dll
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\refint\sistema_de_hospedagem.dll
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.pdb
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\sistema_de_hospedagem.genruntimeconfig.cache
+C:\Users\Malicki\Desktop\DIO\desafios-dio-avanade\desafio_02\sistema_de_hospedagem\obj\Debug\net9.0\ref\sistema_de_hospedagem.dll
